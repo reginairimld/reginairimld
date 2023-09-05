@@ -1,4 +1,4 @@
-### Hi mundo 👋
+### Hi world 👋
 
 - 🔭 I’m currently studying on Preparatoria Alfa Fundación
 - 🌱 I’m currently learning English, Python and html
